@@ -79,8 +79,19 @@
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahil-sharma-54447b354)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:sahilsharma9325@gmail.com)
+<p align="center">
+<a href="https://github.com/sahilxharma">
+<img height="48" src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/sahil-sharma-54447b354">
+<img height="48" src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:sahilsharma9325@gmail.com">
+<img height="48" src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
 
 ---
 
