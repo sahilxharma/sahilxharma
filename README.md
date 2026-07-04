@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahilxharma&theme=tokyonight&column=4"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/?username=sahilxharma&theme=tokyonight&column=4"/>
 </p>
 
 ## 🐍 Contribution Snake
