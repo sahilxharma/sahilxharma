@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology @ D. Y. Patil University (CGPA **9.30/10**)
+- 🎓 B.Tech Information Technology @ D. Y. Patil University (CGPA **9.25/10**)
 - 💻 MERN Stack & Java Full Stack Developer
 - 🏆 Student Coordinator – Training & Placement Cell
 - 🌱 Learning **AWS, Docker, OpenAI APIs, LangChain, RAG & AI Agents**
