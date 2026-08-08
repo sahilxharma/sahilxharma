@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./.github/workflows/profile.svg" alt="Sahil Sharma" width="180" />
+<img src="./.github/workflows/profile.svg" alt="Sahil Sharma" width="650" />
 
 # Hi 👋 I'm Sahil Sharma
 
