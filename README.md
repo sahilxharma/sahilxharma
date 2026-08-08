@@ -1,104 +1,144 @@
+<div align="center">
+
+<img src="./.github/workflows/profile.svg" alt="Sahil Sharma" width="180" />
+
 # Hi 👋 I'm Sahil Sharma
 
-### 🚀 Full Stack Developer • 🎨 Fabric.js & Canvas Developer • 🤖 Machine Learning Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%26+Java+Full+Stack+Developer;Fabric.js+%26+Canvas+Developer;Building+%26+Learning" alt="Typing SVG" />
+</a>
+
+[![GitHub followers](https://img.shields.io/github/followers/sahilxharma?label=Follow&style=social)](https://github.com/sahilxharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sharma-54447b354/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+</div>
+
+<br>
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology @ D. Y. Patil University (CGPA **9.25/10**)
-- 💻 MERN Stack & Java Full Stack Developer
-- 🏆 Student Coordinator – Training & Placement Cell
-- 🧠 Solved **100+ DSA Problems on LeetCode**
-- ✅ Completed **Machine Learning**
-- 🎨 Currently working with **HTML Canvas & Fabric.js**
-- 🖼️ Exploring image editing, image enhancement, filters & canvas-based applications
-- 🎯 Goal: Become a Production AI Engineer
+- 🎓 **B.Tech in Information Technology** @ D. Y. Patil University — CGPA: **9.25/10**
+- 💻 Full Stack Developer — **MERN Stack** & **Java Full Stack**
+- 🧑‍🏫 Student Coordinator — **Training & Placement Cell**
+- 🤖 Completed **Machine Learning**
+- 🧩 Solved **100+ problems** on LeetCode
+- 🎨 Currently working with **Fabric.js** and **HTML Canvas**
+- 🎯 Goal: Become a **Production AI Engineer**
+
+<br>
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
+**Languages**
 
-- Java
-- JavaScript
-- Python
-- HTML
-- CSS
+<img src="https://skillicons.dev/icons?i=java,js,py,html,css" alt="Languages" />
 
-### ⚛️ Frontend
+**Frontend**
 
-- React.js
-- HTML Canvas
-- Fabric.js
-- Responsive UI
+<img src="https://skillicons.dev/icons?i=react" alt="React" />
+&nbsp;
+<img src="https://img.shields.io/badge/Fabric.js-EF6C00?style=for-the-badge" alt="Fabric.js" height="48" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Canvas" height="48" />
 
-### ⚙️ Backend
+**Backend**
 
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
-- MVC Architecture
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" height="48" />
+&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" height="48" />
 
-### 🤖 Machine Learning
+**Tools**
 
-- Machine Learning
-- Python
-- AI Fundamentals
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" height="48" />
+&nbsp;
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="48" />
 
-### 🛠️ Tools & Services
-
-- Git
-- GitHub
-- VS Code
-- Cloudinary
-- Render
+<br>
 
 ## 🚀 Featured Projects
 
-### 🏠 House Rent Marketplace
+<details open>
+<summary><b>🏠 House Rent Marketplace</b></summary>
+<br>
 
-- MERN Stack
-- JWT Authentication
-- Cloudinary
-- MVC Architecture
-- REST APIs
-- Render Deployment
+MERN stack rental marketplace with JWT authentication, Cloudinary media uploads, REST APIs, and an MVC architecture, deployed on Render.
 
-### 🌐 Developer Portfolio
+`React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Render`
 
-- React.js
-- Responsive UI
-- Performance Optimized
+</details>
 
-### 🎨 Canvas Image Editor
+<details>
+<summary><b>💼 Developer Portfolio</b></summary>
+<br>
 
-- React.js
-- HTML Canvas
-- Fabric.js
-- Image Enhancement
-- Image Filters
-- Image Cropping
-- Canvas-based Image Manipulation
+Personal developer portfolio built with React.js, featuring a responsive UI and optimized performance.
+
+`React.js` `Responsive UI` `Performance Optimization`
+
+</details>
+
+<details>
+<summary><b>🖼️ Canvas Image Editor</b></summary>
+<br>
+
+React-based image editor built with Fabric.js and HTML Canvas for image editing, enhancement and cropping.
+
+`React.js` `Fabric.js` `HTML Canvas`
+
+</details>
+
+<br>
 
 ## 🧠 Problem Solving
 
-- 🟢 **100+ Problems Solved on LeetCode**
-- 💻 Data Structures & Algorithms
-- 🧩 Problem Solving
-- 🔍 Logical Thinking
-- 📈 Continuously improving problem-solving skills
+<a href="https://leetcode.com/u/sahilsharma005/">
+  <img src="https://img.shields.io/badge/LeetCode-100%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 100+" />
+</a>
+
+<br>
+<br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sahilxharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilxharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
+
+</div>
+
+<br>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sahilxharma&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
+<br>
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilxharma/sahilxharma/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilxharma/sahilxharma/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sahilxharma/sahilxharma/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> Generated by your existing workflow at `./.github/workflows/snake.yml`. Confirm the output path above matches the branch/file your workflow publishes to.
+
+<br>
 
 ## 🎯 2026 Roadmap
 
@@ -107,20 +147,32 @@
 - ✅ Machine Learning
 - ✅ 100+ LeetCode Problems
 - 🔄 Fabric.js & Canvas
-- 🔄 Image Editing & Enhancement
-- 🔄 Advanced Canvas Applications
+- 🔄 Image Editing
 - 🎯 Production AI Engineering
+
+<br>
 
 ## 🌐 Connect
 
-- 💻 GitHub: [Your GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-- 📧 Email: [Your Email](mailto:YOUR_EMAIL@gmail.com)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilxharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sharma-54447b354/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahilsharma005/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+</div>
+
+<br>
 
 ---
 
-### ⭐ Thanks for visiting!
+<div align="center">
 
-> **"The best code is not written in one go — it's built, broken, debugged, and improved."**
+## ⭐ Thanks for Visiting
 
-### 💻 Keep Coding. Keep Building. Keep Growing. 🚀
+*"Don't just learn how to use the technology. Understand how it works underneath."*
+
+**Keep Coding. Keep Building. Keep Growing. 🚀**
+
+</div>
