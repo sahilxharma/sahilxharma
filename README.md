@@ -1,7 +1,7 @@
 # Hi 👋 I'm Sahil Sharma
 
 <p align="center">
-  <img src="./profile.svg" alt="Sahil Sharma - Developer Profile" width="100%"/>
+  <img src="./.github/workflows/profile.svg" alt="Sahil Sharma - Developer Profile" width="100%"/>
 </p>
 
 <p align="center">
