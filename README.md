@@ -1,70 +1,36 @@
 # Hi 👋 I'm Sahil Sharma
 
-<p align="center">
-  <img src="./.github/workflows/profile.svg" alt="Sahil Sharma - Developer Profile" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Enthusiast;Fabric.js+%26+Canvas+Developer;Machine+Learning+Enthusiast;Building+Production+Ready+Applications" />
-</p>
-
----
+### 🚀 Full Stack Developer • 🎨 Fabric.js & Canvas Developer • 🤖 Machine Learning Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology @ **D. Y. Patil University**
-- 📊 CGPA: **9.25 / 10**
+- 🎓 B.Tech Information Technology @ D. Y. Patil University (CGPA **9.25/10**)
 - 💻 MERN Stack & Java Full Stack Developer
 - 🏆 Student Coordinator – Training & Placement Cell
-- 🤖 Completed **Machine Learning**
+- 🧠 Solved **100+ DSA Problems on LeetCode**
+- ✅ Completed **Machine Learning**
 - 🎨 Currently working with **HTML Canvas & Fabric.js**
-- 🖼️ Exploring image editing, enhancement, cropping and pixel manipulation
-- 🧠 Interested in AI-powered applications
-- 🎯 Goal: Become a **Production AI Engineer**
+- 🖼️ Exploring image editing, image enhancement, filters & canvas-based applications
+- 🎯 Goal: Become a Production AI Engineer
 
----
+## 🚀 Tech Stack
 
-# 🛠️ Tech Stack
+### 💻 Languages
 
-## 💻 Languages
+- Java
+- JavaScript
+- Python
+- HTML
+- CSS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
-</p>
-
----
-
-## ⚛️ Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+### ⚛️ Frontend
 
 - React.js
 - HTML Canvas
 - Fabric.js
 - Responsive UI
-- JavaScript
 
----
-
-## ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+### ⚙️ Backend
 
 - Node.js
 - Express.js
@@ -73,27 +39,13 @@
 - JWT Authentication
 - MVC Architecture
 
----
+### 🤖 Machine Learning
 
-## 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Machine Learning ✅
+- Machine Learning
+- Python
 - AI Fundamentals
-- OpenAI APIs
-- Generative AI
-- AI-powered applications
 
----
-
-## 🧰 Tools & Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+### 🛠️ Tools & Services
 
 - Git
 - GitHub
@@ -101,95 +53,74 @@
 - Cloudinary
 - Render
 
----
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
+### 🏠 House Rent Marketplace
 
-## 🏠 House Rent Marketplace
-
-A full-stack rental marketplace built using the MERN stack.
-
-### 🔧 Tech Used
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+- MERN Stack
 - JWT Authentication
 - Cloudinary
-- REST APIs
 - MVC Architecture
-- Render
+- REST APIs
+- Render Deployment
 
-### ✨ Features
+### 🌐 Developer Portfolio
 
-- 🔐 User authentication
-- 🏠 Property listings
-- 🔎 Property discovery
-- 📸 Image uploads
-- ☁️ Cloudinary integration
-- 🔒 Protected routes
-- 🚀 Production deployment
+- React.js
+- Responsive UI
+- Performance Optimized
+
+### 🎨 Canvas Image Editor
+
+- React.js
+- HTML Canvas
+- Fabric.js
+- Image Enhancement
+- Image Filters
+- Image Cropping
+- Canvas-based Image Manipulation
+
+## 🧠 Problem Solving
+
+- 🟢 **100+ Problems Solved on LeetCode**
+- 💻 Data Structures & Algorithms
+- 🧩 Problem Solving
+- 🔍 Logical Thinking
+- 📈 Continuously improving problem-solving skills
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+## 🎯 2026 Roadmap
+
+- ✅ MERN Stack
+- ✅ Java Full Stack
+- ✅ Machine Learning
+- ✅ 100+ LeetCode Problems
+- 🔄 Fabric.js & Canvas
+- 🔄 Image Editing & Enhancement
+- 🔄 Advanced Canvas Applications
+- 🎯 Production AI Engineering
+
+## 🌐 Connect
+
+- 💻 GitHub: [Your GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+- 📧 Email: [Your Email](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
-## 🌐 Developer Portfolio
+### ⭐ Thanks for visiting!
 
-A responsive developer portfolio built with React.
+> **"The best code is not written in one go — it's built, broken, debugged, and improved."**
 
-### ✨ Features
-
-- ⚛️ React.js
-- 📱 Responsive design
-- ⚡ Performance focused
-- 🎨 Modern UI
-- 📂 Project showcase
-
----
-
-# 🎨 Canvas Image Editor
-
-Currently working with **HTML Canvas and Fabric.js** to understand how image editors work at the pixel and object level.
-
-### 🖼️ Image Features
-
-- ☀️ Brightness
-- 🌓 Contrast
-- 🌈 Saturation
-- ⚫ Grayscale
-- 🔄 Invert
-- 🎨 Hue Rotation
-- 🌫️ Blur
-- 🔍 Sharpness
-- ✂️ Image Cropping
-
-### 🎯 Canvas Concepts
-
-- Canvas rendering
-- Pixel manipulation
-- Image objects
-- Fabric.js objects
-- Image filters
-- Object transformations
-- Scaling
-- Canvas coordinates
-- Image cropping
-- Multiple canvas architecture
-
----
-
-# 🧩 Multi-Canvas Editor
-
-Currently building a multi-canvas editor architecture using React and Fabric.js.
-
-```text
-                    Editor
-                      │
-          ┌───────────┼───────────┐
-          │           │           │
-       Canvas 1    Canvas 2    Canvas 3
-          │           │           │
-       Objects     Objects     Objects
-          │           │           │
-       ┌──┼──┐     ┌──┼──┐     ┌──┼──┐
-       Text Image  Text Image  Text Clipart
+### 💻 Keep Coding. Keep Building. Keep Growing. 🚀
